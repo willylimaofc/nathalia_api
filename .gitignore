@@ -180,6 +180,3 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
-
-### Git ###
-README.md
